@@ -1,5 +1,5 @@
 # dora-rs 学习文档
-https://doracc.com/guide/tutorial/
+https://doracc.com/guide/
 
 # nodes 节点
 https://doracc.com/guide/tutorial/node.html
